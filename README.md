@@ -10,7 +10,7 @@ Here you can download official Space-Desktop documentation for your needs.
 
 * [Space-Desktop GitHub](https://github.com/AutumnWohlen/Space-Desktop) - The official GitHub page.
 * [Space-Desktop Website](https://www.space-desktop.com) - The official website of a framework and an application.
-* [Facebook](https://www.facebook.com/Space-Desktop-2317974875140362 - My Facebok page.
+* [Facebook](https://www.facebook.com/Space-Desktop-2317974875140362) - My Facebok page.
 * [Patreon](https://www.patreon.com/SpaceDesktop) - Patreon page. With patronage I will be able to buy more licences and external software for future Space-Desktop updates.
 
 ## About Documentation
